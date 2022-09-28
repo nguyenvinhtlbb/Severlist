@@ -1,0 +1,4 @@
+ServerVer=280922
+ClientVer=270922
+LauncherVer=270922
+Patch290720-300720=10005.zip;6c995adc20e576a55e546a14fed3000c
